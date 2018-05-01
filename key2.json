@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "curious-arcanum-202818",
+  "private_key_id": "3cbc2acb39d3a00d20267d538a5c8c8925b2fdf7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIszQj3tx7k1m1\nS4vzL87Kj1grLbwg/8T9YBcUtOQeBp0yJi92s8deI/qUXtz7n8g4bAYtdQyvrlFl\nw3PlNkou7pzHZczjaGwGLkb69dpNddh8aQMIri85zEXLhU//WcWoV1DAZ+dWHfd0\n4hlsrIEwCTvN9IqLTrlIoi/vit03/uuPYZyIY+2inv7EK19sxTXxmlNFYL6KTzoW\nqpH0Dxq6hHfxwX41I0WBY9VB2xBhSdBxefOeIzU/RUxGSh/3FJ4KAIpLL6gPDDKH\n+V4ULv+3+mP7iypZ9ZMhG6UtJBXuYAqQwsPbNQfSuK0wrsPJpWEIuUSvQavTbpU7\n9wnZ5W81AgMBAAECggEAA1zd+l2NKASS8SLJVG4K4uHOJPe7dPnBc8sKH/acSDTX\n/0OHXI+3FF35yxt1duwuseP8zNgET3uWJrnEuu9dr1XKqob2DPe5MEz9XfjuwIkB\nXgDxbtIM/a+CmjN14MNWOJOb9AQEVYZOLjcX8iDyz4VRa0pAua78PkS6FQ391ma8\nsFwYqqdiJG3QVPOLBGaFGwB/PjwTkwulRgWsmSwTxN9/G8nFUxXgcDQxDJiDkWJg\nNVwBU5csY++erwQTJykgLDO+77vjFABitzlHw+EozQ6KwSPn5pXGHms2WmFRBjJw\nXQiXRKaJ91A/hsHxPENsPCqQ7wbNMJUL7EPRwbrDQQKBgQDxi0k9Tm0LlRaaxfR1\nSNa3Xpi3EZYHMxibXjnu542SzvpVYPTrgL/737cBu2fYCgt+XZxN//lAK60/rUMP\nfViV3eo5k37qNM5HVAu117JRKwWkhbm9zC09EZSafPNf2UPFo3G6k4uOutg+e0eY\nLSCppIxZjjSpdxwsbacQETfKwQKBgQDUtiSHEqGBrS5hDk96inZ80hV3bgUpHshZ\n6C+uX0klUPLzxoGYKJPQDZXrkW52AkeG9qenEnByIIzFymk7gu/EpHsTCf0i+xBZ\nS0gOqULrdvEtpqk36Bm63YpR6Iy0aJSwIs/ZS5ewV2n109qIwjDdzHip3nSvCuJA\nZrSvMHAFdQKBgQDfulLxTRYl10cjvt2KURhIqn8rekeLjaFqL6HbjnCMndgzguX4\nyL2KsBHTseEis1MoDc78VG9rJ8mGJJbr3v9ReUY9ZEf26Uhzuv5JxWtuUTodxJth\nmKACY6lQWxIWIqjqhFSQK5/laV1oqkmLQ6lwWHCDdvuCSEg5QquubzRNQQKBgQCi\nIlvhYUAd+gVaEXBfdV8vcWrPZ9sjJsWMUkDV5ud4PCWTzwFFG9jfQxu9PVM3PDGN\nHEFaReHT/B+RO+HObNWZy83MC1cZ7MjfZ1R7aGUL2dOn+lsNtCq4ltkx6dImSXjc\ncQyBEu+CiH7J1DvE9lANICfxQxEpw2AFusOKrZ8VaQKBgEICISqPNxb4u/Zur6+l\npHOFth4gnt2Lk/AeRodbuN9CyOx0o8lmlG0cLgzi70jqq8401lXILnS2A+kiUnO+\nJ9CCHgKQg8mLjUeQKpiGl9poJq49RIEnaDHu/Ay1gYSbcbGR+ElCz+wkum//LloZ\n7wp6oqX42LU+c6hd6Ko9r1Cl\n-----END PRIVATE KEY-----\n",
+  "client_email": "shiv-168@curious-arcanum-202818.iam.gserviceaccount.com",
+  "client_id": "110191811399889730068",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shiv-168%40curious-arcanum-202818.iam.gserviceaccount.com"
+}
